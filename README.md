@@ -33,7 +33,7 @@ npm install
 npm run build:vms
 ```
 
-## Adding a New VM
+## Adding a New VMS
 
 1. Add the folder and `.cfg` under `specification/`
 2. Add an entry to the `VMS` array in `scripts/build-vms.js`
