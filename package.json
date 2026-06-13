@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "adm-zip": "0.5.17"
+  },
+  "scripts": {
+    "build:vms": "node scripts/build-vms.js"
+  }
+}
