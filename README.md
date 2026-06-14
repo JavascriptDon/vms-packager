@@ -24,7 +24,7 @@ Running the build produces versioned `.vms` files in `releases/vms/`, e.g. `OOTB
 
 ## Prerequisites
 
-- Node.js
+- [Node.js](https://nodejs.org/en)
 
 ## Getting Started
 
