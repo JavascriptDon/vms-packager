@@ -1,4 +1,4 @@
-# Cortona3D VM Build Tool
+# vms-packager
 
 A build script that packages VM specifications into versioned `.vms` files, pulling the version and name directly from each VM's `.cfg` file.
 
